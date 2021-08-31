@@ -1,5 +1,5 @@
-<script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 
 <h1>AdobePhotoshop</h1>
-<span class="iconify" data-icon="file-icons:adobe-photoshop"></span>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <p>Here is my Photoshop projects that I made during university years. </p>
+
